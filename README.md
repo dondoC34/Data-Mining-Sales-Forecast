@@ -1,2 +1,3 @@
 # SalesForecast
-Data Mining self work
+Data Mining Project - Kaggle-like challenge.  
+Check the full Python Notebook
